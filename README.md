@@ -46,7 +46,7 @@ This project demonstrates automated end-to-end testing of Amazon’s product sea
 
 The test suite has been executed successfully on LambdaTest Cloud.
 
-* Test ID: DA-WIN-3114244-1777378714321379642MVJ : 
+* Test ID: DA-WIN-3114244-1777378714321379642MVJ 
 * Platform: Windows 11
 * Browser: Chrome
 * Resolution: 1920x1080
