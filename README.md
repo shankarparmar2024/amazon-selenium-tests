@@ -7,6 +7,8 @@ This project demonstrates automated end-to-end testing of Amazon’s product sea
 ---
 
 ## Test Scenarios
+<img width="960" height="504" alt="Screenshot 2026-04-28 182106" src="https://github.com/user-attachments/assets/e846188c-2ee3-48da-9db4-0e24bce2550e" />
+
 
 ### Test Case 1: iPhone Search and Add to Cart
 
@@ -33,9 +35,8 @@ This project demonstrates automated end-to-end testing of Amazon’s product sea
 
 ## Tech Stack
 
-* Programming Language: JavaScript / Java / Python (based on implementation)
+* Programming Language: JavaScript ,Java , Python (based on implementation)
 * Automation Tool: Selenium WebDriver
-* Test Runner: Playwright / TestNG / Mocha
 * Cloud Platform: LambdaTest
 * Version Control: Git and GitHub
 
@@ -45,7 +46,7 @@ This project demonstrates automated end-to-end testing of Amazon’s product sea
 
 The test suite has been executed successfully on LambdaTest Cloud.
 
-* Test ID: DA-WIN-3114244-1777378714321379642MVJ
+* Test ID: DA-WIN-3114244-1777378714321379642MVJ : 
 * Platform: Windows 11
 * Browser: Chrome
 * Resolution: 1920x1080
@@ -55,19 +56,14 @@ The test suite has been executed successfully on LambdaTest Cloud.
 
 ## Screenshots
 
-Add your LambdaTest screenshots in the `screenshots/` directory and reference them below:
+<img width="960" height="504" alt="Screenshot 2026-04-28 175713" src="https://github.com/user-attachments/assets/f972460e-9af5-4fd6-a1e7-8315b141ebde" />
+
 
 * LambdaTest Dashboard
 * iPhone Test Execution
 * Galaxy Test Execution
 
-Example:
-
-```
-![Dashboard](./screenshots/dashboard.png)
-```
-
----
+<img width="960" height="504" alt="Screenshot 2026-04-28 175851" src="https://github.com/user-attachments/assets/1e7ca3ef-3d9b-448e-bf6c-12c32d15c126" />
 
 ## Project Structure
 
@@ -126,23 +122,6 @@ npm test
 
 ---
 
-### Run Tests on LambdaTest
-
-1. Create an account at https://www.lambdatest.com/
-2. Add credentials in your configuration file or environment variables:
-
-```bash
-LT_USERNAME=your_username
-LT_ACCESS_KEY=your_access_key
-```
-
-3. Execute tests:
-
-```bash
-npx playwright test --config=lt.config.js
-```
-
----
 
 ## Key Features
 
@@ -176,5 +155,5 @@ npx playwright test --config=lt.config.js
 
 ## Author
 
-Sumit Parmar
+Shankar suman singh parmar 
 GitHub: https://github.com/shankarparmar2024
