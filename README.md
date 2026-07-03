@@ -110,11 +110,6 @@ npm install
 
 ### Run Tests Locally
 
-```bash
-npx playwright test
-```
-
-or
 
 ```bash
 npm test
