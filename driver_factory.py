@@ -1,3 +1,4 @@
+##import driver : open the brower
 import os
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
@@ -77,7 +78,7 @@ def get_lambdatest_driver(test_name=None):
     driver.set_page_load_timeout(PAGE_LOAD_TIMEOUT)
     return driver
 
-
+##open chrome or open edge or connect to lambda test 
 def get_driver(use_lambdatest=False, test_name=None, browser=None, headless=None):
     if use_lambdatest:
         return get_lambdatest_driver(test_name=test_name)
