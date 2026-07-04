@@ -1,4 +1,4 @@
-# Amazon Automation Testing Project (Selenium + LambdaTest)
+# Amazon Automation Testing Project 
 
 ## Project Overview
 
